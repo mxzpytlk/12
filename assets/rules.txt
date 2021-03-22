@@ -1,0 +1,4 @@
+"You need move a numbers to the same numbers.
+A new number will be created there"
+Tap the first number than tap the second number has the same value
+Try to get "12" to win the game
